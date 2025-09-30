@@ -1,4 +1,4 @@
-# Python-Data-SLicing-Indexing
+# Python-Data-Slicing-Indexing
 # 🎓 Student Data Analysis – Python & Pandas (Day 3)
 
 This repository contains a Python-based data analysis exercise completed in Google Colab. The project explores a student dataset using pandas, showcasing data cleaning, exploration, filtering, and statistical insight generation.
